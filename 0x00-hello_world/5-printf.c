@@ -1,5 +1,5 @@
 #include <stdio.h>
-/
+/**
 * main - this is a prinf function
 * Return: 0
 */
